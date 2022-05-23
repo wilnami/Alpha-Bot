@@ -1,0 +1,22 @@
+{
+    "env": {
+        "DOWNLOAD_DIR": {
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "required": true
+        },
+        "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
+            "required": true
+        },
+        "AUTO_DELETE_MESSAGE_DURATION": {
+            "required": true
+        },
+        "INDEX_URL": {
+            "required": true
+        },
+        "IS_TEAM_DRIVE": {
+            "required": true
+        }
+    }
+}
